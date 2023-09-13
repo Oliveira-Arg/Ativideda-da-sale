@@ -1,0 +1,19 @@
+{"usuarios":[
+    {
+        "nome": "Zé",
+        "idade": 13
+    },
+    {
+        "nome": "Manga",
+        "idade": 18
+    },
+    {
+        "nome": "Morango",
+            "idade": 27
+    },
+    {
+            "nome": "Zé da Ferrugem VI",
+            "idade": 39
+        }
+]
+}
